@@ -7,8 +7,10 @@
   }
 }
 
-.tech {
-  margin: 10px;
+
+.svg-logo {
+  width:75px;
+  height:75px;
 }
 
 .user {
@@ -21,8 +23,12 @@
   p {
     font-size: 16px;
   }
+
+  .tech {
+    margin: auto;
+  }
   @media only screen and (min-width: $cut) {
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     font-size: 75px;
   }
 }

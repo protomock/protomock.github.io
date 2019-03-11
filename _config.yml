@@ -1,16 +1,16 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Cody Hutchens 
+description: Cody hutchens's personal site
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://codyhutchens.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
+username: Cody Hutchens
+user_description: A software engineer making his way through data science with an evolving passion for machine learning. My focus within the artifical intelligence space is shifting to reinforcement learning. I have worked on everything from building frontends to building backend apis to working on deep learning neural networks.
+user_title: Software/Data Engineer
+email: chutchens91@gmail.com
 twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+github_username:  protomock
 gplus_username:  lorem_ipsum
 
 # Google-analytics
